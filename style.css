@@ -1,0 +1,33 @@
+body{
+	
+	text-align: center;
+	background-color:lightblue;
+}
+h1{
+	color:#D50f42;
+	text-decoration: underline;
+	font-weight:bold; 
+	font-size: 150%;
+}
+h2{
+	background-color:yellow; 
+	color:#320951;
+	font-style: italic;
+	font-size: 100%;
+	border-style: inset;
+}
+span{
+	color:#FF336A;
+	text-decoration: line-through;
+}
+img{
+float:left;
+margin:10px 10px 10px 10px;
+}
+p{
+	margin-left: auto;
+	margin-right: auto;
+background-color:lightyellow;
+padding:40px 30px 40px 80px;
+}
+
